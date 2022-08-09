@@ -23,10 +23,11 @@ Users should be able to:
 
 ### Screenshot
 
+- Desktop
 ![Desktop](./screenshot.jpg)
 
 - Mobile
-![](./screenshot-mobile.jpg)
+![Mobile](./screenshot-mobile.jpg)
 
 ### Links
 
