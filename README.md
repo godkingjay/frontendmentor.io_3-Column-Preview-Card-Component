@@ -33,7 +33,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: ---> [LINK](https://www.frontendmentor.io/solutions/responsive-nft-preview-card-component-Qm0zDGNx3p)
+- Solution URL: ---> [LINK](https://www.frontendmentor.io/solutions/3column-preview-card-component-responsive-html-css-L7Mg-Wt1yb)
 - Live Site URL: ---> [LINK](https://godkingjay.github.io/frontendmentor.io_3-Column-Preview-Card-Component/)
 
 ## My process
