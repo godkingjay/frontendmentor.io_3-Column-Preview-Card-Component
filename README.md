@@ -27,6 +27,7 @@ Users should be able to:
 ![Desktop](./screenshot.jpg)
 
 - Mobile
+
 ![Mobile](./screenshot-mobile.jpg)
 
 ### Links
